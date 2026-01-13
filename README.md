@@ -25,15 +25,11 @@ Here you can find a selection of my **university, personal and professional proj
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </p>
 
----
-
 ### ⚙️ Automation & APIs
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
 </p>
-
----
 
 ### 🧰 Systems, Infrastructure & Networking
 <p align="left">
@@ -43,22 +39,16 @@ Here you can find a selection of my **university, personal and professional proj
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
 </p>
 
----
-
 ### 🗄️ Databases & Storage
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
 </p>
 
----
-
 ### 🔐 Security & Administration
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 </p>
-
----
 
 ### 🛠️ Tools
 <p align="left">
