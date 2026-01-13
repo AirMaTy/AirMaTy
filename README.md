@@ -10,6 +10,10 @@ Here you can find a selection of my **university, personal and professional proj
 
 ---
 
+![Snake](https://raw.githubusercontent.com/AirMaTy/AirMaTy/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## 🛠️ Tools & Tech Stuff
 
 ### 💻 Programming & Scripting
