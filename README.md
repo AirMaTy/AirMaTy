@@ -1,10 +1,14 @@
 # Hi 👋 I'm Maxime
 
+---
+
 I'm a Computer Science student with a strong interest in **system administration and security** 🔐🖥️
 
 Currently working as an apprentice at **Carington**, I develop automation tools and applications to reduce errors and the time spent on repetitive tasks ⚙️🤖
 
 Here you can find a selection of my **university, personal and professional projects** (when they are not confidential) 📁💡
+
+---
 
 ## 🛠️ Tools & Tech Stuff
 
@@ -17,48 +21,43 @@ Here you can find a selection of my **university, personal and professional proj
 
 ---
 
-### ⚙️ Automation, APIs & Data Processing
-![Python Automation](https://img.shields.io/badge/Automation-Python-blue)
-![OCR](https://img.shields.io/badge/OCR-Data%20Extraction-orange)
-![API](https://img.shields.io/badge/API-Integration-lightgrey)
-![Mindee](https://img.shields.io/badge/Mindee-Document%20AI-purple)
+### ⚙️ Automation & APIs
+![Python](https://img.shields.io/badge/Python-Automation-blue?style=flat&logo=python&logoColor=white)
+![API](https://img.shields.io/badge/API-Integration-lightgrey?style=flat)
+![OCR](https://img.shields.io/badge/OCR-Data%20Extraction-orange?style=flat)
+![Mindee](https://img.shields.io/badge/Mindee-Document%20AI-purple?style=flat)
 
 ---
 
 ### 🧰 Systems, Infrastructure & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Self--Hosting](https://img.shields.io/badge/Self--Hosting-Servers-informational)
-![Networking](https://img.shields.io/badge/Networking-Infrastructure-blue)
-![Cisco](https://img.shields.io/badge/Cisco-Networking-lightgrey)
+![Self Hosting](https://img.shields.io/badge/Self--Hosting-Servers-informational?style=flat)
+![Networking](https://img.shields.io/badge/Networking-Infrastructure-blue?style=flat)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-lightgrey?style=flat)
 
 ---
 
 ### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Databases-blue)
-![NAS](https://img.shields.io/badge/NAS-Storage-informational)
-
----
-
-### 🌐 Web & Interfaces
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![REST](https://img.shields.io/badge/REST-API-lightgrey)
-![Web Interfaces](https://img.shields.io/badge/Web-Interfaces-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat)
+![NAS](https://img.shields.io/badge/NAS-Storage-informational?style=flat)
 
 ---
 
 ### 🔐 Security & Administration
-![System Administration](https://img.shields.io/badge/System-Administration-red)
-![Access Control](https://img.shields.io/badge/Access-Control-orange)
-![Security Basics](https://img.shields.io/badge/Security-Fundamentals-red)
+![System Administration](https://img.shields.io/badge/System-Administration-red?style=flat)
+![Access Control](https://img.shields.io/badge/Access-Control-orange?style=flat)
+![Security](https://img.shields.io/badge/Security-Fundamentals-red?style=flat)
 
 ---
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Linux CLI](https://img.shields.io/badge/Linux-CLI-black)
+![Linux CLI](https://img.shields.io/badge/Linux-CLI-black?style=flat)
 
+
+---
 
 🌐 Portfolio: https://airmaty.github.io
